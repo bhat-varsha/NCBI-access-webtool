@@ -35,9 +35,10 @@ The goal of this project is to understand web layout design using:
 ![project screenshot](images/webpage.png)
 
 ---
-
+## 🌐 Live Demo
+https://bhat-varsha.github.io/NCBI-access-webtool/
 ## Key Concepts Learned
-
+---
 * Page layout using CSS Grid
 * Alignment using Flexbox
 * Styling lists and navigation menus
