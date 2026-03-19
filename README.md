@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a front-end recreation of the **NCBI (National Center for Biotechnology Information)** homepage interface using only **HTML and CSS**.
+This project is a front-end recreation of the **NCBI (National Center for Biotechnology Information)** homepage interface using only **HTML and CSS**.(replica of ncbi page)
 
 The goal of this project is to understand web layout design using:
 
